@@ -36,6 +36,7 @@ __texto en negrita__
 - Sota
    - Sota de espadas
    - Sota de oros
+   - Sota de copas
 - Caballo  
   La figura del caballero, generalmente llamado *caballo* es una peculiaridad de
 la baraja española que sustituye a la figura de la reina que aparece en la mayoría de las restantes barajas. 
